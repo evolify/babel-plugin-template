@@ -1,0 +1,11 @@
+{
+  "name": "babel-plugin-template",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:evolify/babel-plugin-template.git",
+  "author": "孤狼 <wolf@evolify.cn>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@babel/core": "^7.4.5"
+  }
+}
